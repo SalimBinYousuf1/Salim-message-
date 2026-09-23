@@ -1,0 +1,6 @@
+{
+  "name": "Salim Messages",
+  "description": "Production SMS and MMS messaging app with native Android telephony integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
